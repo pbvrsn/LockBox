@@ -1,0 +1,3 @@
+sqlalchemy
+ttkwidgets
+cryptography
