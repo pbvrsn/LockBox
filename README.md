@@ -6,4 +6,4 @@ LockBox is an encrypted password manager written in python, and tkinter as GUI m
 - r3veal
 - prasad
 
-For more information about LockBox check [wiki](https://github.com/r3veal/LockBox/wiki).
+For more information about LockBox check.
